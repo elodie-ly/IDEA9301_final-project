@@ -125,6 +125,7 @@ The time-based mechanic will act as the main visual director of our CUDA-inspire
 ## Mechanic 4:  User input mechanic
 
 **Owner:** Xinyue Zhang / xzha0936
+
 **Mechanic:** Employ timers and events to drive the mechanic.
 
 The mouse and keyboard controls will make the artwork feel more interactive and alive. Instead of the visuals running on their own all the time, the audience can change what happens on the screen through simple actions. Moving the mouse will affect how the shapes and particles move, making them follow, avoid, or react to the cursor. Clicking the mouse can create quick energy explosions, bright flashes, or spinning effects across the canvas.
